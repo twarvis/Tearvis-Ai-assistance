@@ -1,2 +1,2 @@
-# Tearvis-Ai-assistance
-Twarvis Ai assistance
+# Twarvis-Ai-assistance
+*Twarvis Ai assistance
